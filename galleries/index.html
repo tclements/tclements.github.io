@@ -45,16 +45,13 @@ navbar-dark bg-dark
 <a href="../index.html" class="nav-link">Home</a>
                 </li>
 <li class="nav-item">
-<a href="../bio/index.html" class="nav-link">Bio</a>
+<a href="../cv/index.html" class="nav-link">CV</a>
                 </li>
 <li class="nav-item">
-<a href="../archive.html" class="nav-link">Archive</a>
+<a href="../archive.html" class="nav-link">Blog</a>
                 </li>
 <li class="nav-item">
 <a href="../categories/" class="nav-link">Tags</a>
-                </li>
-<li class="nav-item">
-<a href="../rss.xml" class="nav-link">RSS feed</a>
 
                 
             </li>
@@ -75,6 +72,12 @@ navbar-dark bg-dark
 </ul></nav><h1>galleries</h1>
 
 <div id="gallery_container"></div>
+<noscript>
+<ul class="thumbnails"><li>
+<a href="IMG_1577.JPG" class="thumbnail image-reference" title="Img 1577">
+            <img src="IMG_1577.thumbnail.JPG" alt="Img 1577"></a>
+</li></ul>
+</noscript>
 
         <!--End of body content-->
 
@@ -87,7 +90,7 @@ navbar-dark bg-dark
 
 
         <script src="../assets/js/all-nocdn.js"></script><script src="../assets/js/justified-layout.min.js"></script><script src="../assets/js/gallery.min.js"></script><script>
-var jsonContent = [];
+var jsonContent = [{"height": 4032, "size": {"h": 4032, "w": 3024}, "title": "Img 1577", "url": "IMG_1577.JPG", "url_thumb": "IMG_1577.thumbnail.JPG", "width": 3024}];
 var thumbnailSize = 180;
 renderGallery(jsonContent, thumbnailSize);
 window.addEventListener('resize', renderGallery);
