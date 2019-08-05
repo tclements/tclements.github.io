@@ -1,0 +1,4 @@
+Sitemap: https://github.com/tclements/tclements.github.io.git/sitemapindex.xml
+
+User-Agent: *
+Host: github.com
