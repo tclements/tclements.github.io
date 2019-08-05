@@ -7,11 +7,19 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://github.com/tclements/tclements.github.io.git/</loc>
-  <lastmod>2019-08-05T15:59:00Z</lastmod>
+  <lastmod>2019-08-05T16:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://github.com/tclements/tclements.github.io.git/archive.html</loc>
-  <lastmod>2019-08-05T15:59:00Z</lastmod>
+  <lastmod>2019-08-05T16:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/tclements/tclements.github.io.git/bio/</loc>
+  <lastmod>2019-08-05T16:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://github.com/tclements/tclements.github.io.git/blog/</loc>
+  <lastmod>2019-08-05T16:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://github.com/tclements/tclements.github.io.git/categories/</loc>
