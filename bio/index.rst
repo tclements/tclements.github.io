@@ -1,4 +1,4 @@
-.. title: Bio
+.. title: 
 .. slug: bio
 .. date: 2019-08-05 12:04:38 UTC-04:00
 .. tags: 
@@ -14,7 +14,7 @@ I got into seismology because I could do physics, play with big computers and go
 Education
 ============
 
-| **Harvard University, Graduate School of Arts and Sciences**, MA, USA, 2016 - Present
+| **Harvard University, Graduate School of Arts and Sciences**, Cambridge, MA, USA, 2016 - Present
 | Ph.D., Earth and Planetary Sciences, 2021 (expected)
 | A.M., Earth and Planetary Sciences, 2018
 |
