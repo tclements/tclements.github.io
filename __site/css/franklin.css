@@ -4,7 +4,7 @@
 
 html {
     font-family: Helvetica, Arial, sans-serif;
-    font-size  : 12px;
+    font-size  : 17px;
     color: #1c1c1c;
 }
 
@@ -82,8 +82,8 @@ html {
 ================================================================== */
 
 .franklin-content h1 { font-size: 22px; }
-.franklin-content h2 { font-size: 18px; }
-.franklin-content h3 { font-size: 20px; }
+.franklin-content h2 { font-size: 20px; }
+.franklin-content h3 { font-size: 18px; }
 
 .franklin-content h1, h2, h3, h4, h5, h6 {
     text-align: left; }
