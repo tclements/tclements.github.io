@@ -20,8 +20,8 @@ In our [2018 paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/201
 
 ## Seismology in Julia 
 
-SeisIO
+SeisIO:
 
-SeisNoise
+SeisNoise:
 
 ## Cloud-Native Seismology 
