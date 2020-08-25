@@ -3,7 +3,7 @@
 
 @def tags = ["syntax", "code"]
 
-I got into seismology because I could do physics, play with big computers and go around the world to dig holes. I've thus far installed seismometers at Mount St. Helens, WA; Amhara and Oromia, Ethiopia; Laguna del Maule, Chile; Enid, Oklahoma; Cambridge, MA; Medford, MA; Seattle, WA; and Strafford, VT. 
+I got into seismology so I could do physics, play with big computers and go around the world to dig holes. I've thus far installed seismometers at Mount St. Helens, WA; Amhara and Oromia, Ethiopia; Laguna del Maule, Chile; Enid, Oklahoma; Cambridge, MA; Medford, MA; Seattle, WA; and Strafford, VT. 
 
 I graduated from Cornell Engineering in May 2015 with a B.S. in Mathematical Geoscience and a minor in physics.  I was a research assistant in the [Earthquake Seismology Lab](https://www.eas.cornell.edu/geophysics-and-seismology) working with [Prof. Katie Keranen](https://www.eas.cornell.edu/faculty-directory/katie-keranen).
 
@@ -24,7 +24,7 @@ I graduated from Cornell Engineering in May 2015 with a B.S. in Mathematical Geo
 
 > Yang X., Bryan J., Okubo K., Jiang C., **Clements T.H.**, and Denolle M.A. (in prep), *Optimize the Stacking of Noise Correlation Functions*, to be sumitted to Geophysical Journal International.  
 
-> **Clements T.H.**, and M.A. Denolle. (accepted), *SeisNoise.jl: Ambient Noise Cross-Correlation on the CPU and GPU in Julia*, Seismological Research Letters, [PDF](https://drive.google.com/file/d/1HYAyQ1CSMkh-OJTS58PHTVcHhMpGKyWc/view?usp=sharing)
+> **Clements T.H.**, and M.A. Denolle. (in press), *SeisNoise.jl: Ambient Noise Cross-Correlation on the CPU and GPU in Julia*, Seismological Research Letters, [PDF](https://drive.google.com/file/d/1HYAyQ1CSMkh-OJTS58PHTVcHhMpGKyWc/view?usp=sharing)
 
 > Jones J.P., Okubo T., **Clements T.H.**, and Denolle M.A. (2020), *SeisIO: A Fast, Efficient Geophysical Data Architecture for the Julia Language*, Seismological Research Letters, 91. [PDF](https://pubs.geoscienceworld.org/ssa/srl/article-pdf/91/4/2368/5082313/srl-2019295.1.pdf)
 
